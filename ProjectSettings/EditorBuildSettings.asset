@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/LoginScene.unity
+    guid: f76fac99fec966e4bac58dc4563e9491
+  - enabled: 1
+    path: Assets/Scenes/Starting Scene.unity
+    guid: 78a630b39fc31d74d8bab66e8d3556ba
+  - enabled: 1
+    path: Assets/Scenes/Main Scene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Game Over Scene.unity
+    guid: 0e14e157d39607e4f8ce622351752fa8
+  - enabled: 1
+    path: Assets/Scenes/Mini Game 1.unity
+    guid: eb2cccc7e4aff6a438c3d19c55741672
+  - enabled: 1
+    path: Assets/Scenes/Leaderboard.unity
+    guid: 7e3cff61fff04714094be26422b4904c
+  - enabled: 1
+    path: Assets/Scenes/Mini Game 2.unity
+    guid: c0375a8fea2fd19488c6f4ac5cf74116
+  - enabled: 1
+    path: Assets/Scenes/Mini Game 3.unity
+    guid: fb593c8d878f4fa47987624fb032ec0c
+  m_configObjects: {}
